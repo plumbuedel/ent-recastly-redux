@@ -1,4 +1,4 @@
-@import url("http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+@import url("../node_modules/glyphicons-only-bootstrap/css/bootstrap.min.css");
 
 body {
   background: #f1f1f1;
